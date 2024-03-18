@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ponnapassorn Iamborisut (Paula)</h1>
-<h3 align="center">I'm passionate about database management, artificial intelligence, and UX/UI design.</h3>
+<h3 align="center">I'm passionate about database management and artificial intelligence</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
